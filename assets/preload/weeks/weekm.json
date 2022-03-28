@@ -1,0 +1,58 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Aware",
+			"mouse",
+			[
+				50,
+				50,
+				50
+			]
+		],
+		[
+			"Films End",
+			"mouse",
+			[
+				50,
+				50,
+				50
+			]
+		],
+		[
+			"Double Down",
+			"cuphead",
+			[
+				255,
+				0,
+				67
+			]
+		],
+		[
+			"Sinners",
+			"mouse",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}
